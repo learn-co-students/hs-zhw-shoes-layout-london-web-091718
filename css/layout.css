@@ -25,3 +25,58 @@
 /* Posititoning Classes */
 
 
+.column1 {
+float:left;
+width: 33%;
+background: #ffffff;
+margin-right: 0.5%;
+margin-top: 1%;
+}
+
+.column2 {
+  float:left;
+  width: 33%;
+  background: #ffffff;
+  margin-right: 0.5%;
+margin-top: 1%;
+}
+
+.column3 {
+float:left;
+width: 33%;
+background: #ffffff;
+margin-top: 1%;
+
+}
+
+.column4{
+  float:left;
+  width: 66.5%;
+  margin-right:0.5%;
+  background: #ffffff;
+}
+
+.column5 {
+float:left;
+width: 33%;
+background: #ffffff;
+}
+
+
+.marginn{
+  margin-bottom: 2%;
+}
+
+#column-soc {
+
+float:left;
+width: 33%;
+background: rgba(0,0,0,0);
+margin-top: 1%;
+
+}
+
+#shoearchive .shadow {
+background: rgba(0,0,0,0);
+
+}
